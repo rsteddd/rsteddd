@@ -6,6 +6,9 @@ Junior Frontend Developer
 
 My experience includes using modern technologies such as HTML5, CSS3 and JavaScript, as well as frameworks and libraries such as React.js. I am working on improving my skills in developing user-friendly and efficient code My strengths include attention to detail, ability to work in a team and solve tasks with high efficiency. I am always willing to learn new technologies and improve my skills to keep up with the latest trends in web development.
 
+
+My strengths include attention to detail, ability to work in a team and solve tasks with high efficiency. I am always willing to learn new technologies and improve my skills to keep up with the latest trends in web development.
+
 * 🌍  I'm based in Poland,Kraków, but from Ukraine
 * ✉️  You can contact me at [vladislavgucci@gmail.com](mailto:vladislavgucci@gmail.com)
 
